@@ -5,8 +5,8 @@
  * This header file provides an abstraction of the basic data manipulation,
  * converting data from int to ASCII, and vice-versa
  *
- * @author Mohammed Abdelalim
- * @date 24/10/2020
+ * @author Kobe Michael Lazo
+ * @date 12/12/2025
  *
  */
 
