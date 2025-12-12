@@ -5,8 +5,8 @@
  * This implementation file provides an abstraction of the basic data manipulation operations
  * like converting integer to string and vice versa via function calls.
  * 
- * @author Mohammed Abdelalim
- * @date 26/10/2020
+ * @author Kobe Michael Lazo
+ * @date 12/12/2025
  *
  */
 
