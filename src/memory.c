@@ -17,7 +17,7 @@
  * 
  * @author Alex Fosdick
  * @date 1/4/2017
- * @edited 24/10/2020 by Mohammed Abdelalim
+ * @edited 12/12/2025 by Kobe Michael Lazo
  *
  */
 #include "../include/common/memory.h"
